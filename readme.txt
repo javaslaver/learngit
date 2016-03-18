@@ -1,2 +1,2 @@
-Git is a dvcs.
-Git is a sduthgpl.
+Git is a wft
+Git is a wtf
